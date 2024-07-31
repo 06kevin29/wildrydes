@@ -1,3 +1,5 @@
+//NOTE: credentials for AWS Cognito and API Gateway DNE anymore to avoid security vulnerablities
+
 window._config = {
     cognito: {
         userPoolId: 'us-east-2_AWo9q1G06',
